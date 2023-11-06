@@ -1,3 +1,3 @@
 variable "bucketname"{
-default= "poonubucket23972023"
+default= "bucket-name"
 }
